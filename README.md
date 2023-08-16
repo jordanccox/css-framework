@@ -8,7 +8,7 @@ The purpose of this project was to build a custom CSS framework in order to bett
 
 ## How to Use
 
-To use this framework in your project, download the framework.css file and add it to your project's directory. At the top of your html head section, add `<link rel="stylesheet" href="framework.css" />`. When you want to use a add a column, do so like this:
+To use this framework in your project, download the framework.css file and add it to your project's directory. At the top of your html head section, add `<link rel="stylesheet" href="framework.css" />`. When you want to add a column, do so like this:
 
 ```jsx
 <div class="row">
